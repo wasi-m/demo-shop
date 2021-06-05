@@ -7,7 +7,7 @@ Users can demo it here http://demo-shopy.herokuapp.com/
 Project Details
 --------------------------------------------
 - Backend - Python/DjangoRestFramework
-- Database - SQLite3 (Not Used)
+- Database - SQLite3
 - Hosted on - Heroku
 - website - http://demo-shopy.herokuapp.com/
 
