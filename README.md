@@ -1,7 +1,7 @@
 # Shop App
 A simple Category and product structure in Python Django Rest Framework
 
-Users can demoit here http://demo-shopy.herokuapp.com/ and upload the file.
+Users can demo it here http://demo-shopy.herokuapp.com/
 
 
 Project Details
